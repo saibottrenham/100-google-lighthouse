@@ -1,0 +1,51 @@
+{
+ "name": "Gutter Guard King App",
+ "short_name": "ggking",
+ "lang": "en-US",
+ "start_url": "/",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FC3E1E",
+ "display": "standalone",
+ "icons": [
+  {
+   "src": "static/img/icons/android-icon-36x36.jpg",
+   "sizes": "36x36",
+   "type": "image\/jpg"
+  },
+  {
+   "src": "\/static/img/icons/android-icon-48x48.jpg",
+   "sizes": "48x48",
+   "type": "image\/jpg"
+  },
+  {
+   "src": "\/static/img/icons/android-icon-72x72.jpg",
+   "sizes": "72x72",
+   "type": "image\/jpg"
+  },
+  {
+   "src": "\/static/img/icons/android-icon-96x96.jpg",
+   "sizes": "96x96",
+   "type": "image\/jpg"
+  },
+  {
+   "src": "\/static/img/icons/android-icon-144x144.jpg",
+   "sizes": "144x144",
+   "type": "image\/jpg"
+  },
+  {
+   "src": "\/static/img/icons/android-icon-192x192.jpg",
+   "sizes": "192x192",
+   "type": "image\/jpg"
+  },
+  {
+    "src": "\/static/img/icons/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "\/static/img/icons/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+ ]
+}
